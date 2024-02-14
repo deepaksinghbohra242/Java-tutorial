@@ -22,7 +22,10 @@ public class Tut2 {
                     break;
                 }
                 System.out.print(i + j);
+
             }
+
+
             for(int j=0;j<5;j++){
                 if(i>=3){
                     System.out.println(j + i);
@@ -32,21 +35,21 @@ public class Tut2 {
             }
         }
 
-        for (int i=0;i<5;i++){
-            for(int j=0;j<5;j++){
-                if(i==3 || j==4){
-                    break;
-                }
-                System.out.print(i + j);
-            }
-            System.out.println();
-            for (int j=5 ;j>0 ;j++){
-                if(i==3 || j==4){
-                    break;
-                }
-                System.out.print(i + j);
-            }
-        }
+//        for (int i=0;i<5;i++){
+//            for(int j=0;j<5;j++){
+//                if(i==3 || j==4){
+//                    break;
+//                }
+//                System.out.print(i + j);
+//            }
+//            System.out.println();
+//            for (int j=5 ;j>0 ;j++){
+//                if(i==3 || j==4){
+//                    break;
+//                }
+//                System.out.print(i + j);
+//            }
+//        }
 
 
     }
