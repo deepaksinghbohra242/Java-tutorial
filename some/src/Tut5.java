@@ -47,9 +47,14 @@ public class Tut5 {
         int target = 9;
         int [] ans;  // 2,5
 
-        int [][][] ar = {{{1,2,3,2,32,2}},{{1,2,3}},{{1,3,4,5,6}},{{1}}};
-
-
+        int [][][] ar = {{{1,2,3,2,32,2}},
+                {{1,2,3}},
+                {{1,3,4,5,6}},
+                {{1}}};
+        int m = ar.length;
+        int n = ar[0].length;
+        int o = ar[0][0].length;
+        System.out.println(o);
     }
 }
 
