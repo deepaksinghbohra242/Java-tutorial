@@ -1,3 +1,5 @@
+package com.tutotials;
+
 import java.util.Scanner;
 
 public class Tut1 {

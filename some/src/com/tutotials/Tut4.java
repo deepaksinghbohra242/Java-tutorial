@@ -1,3 +1,5 @@
+package com.tutotials;
+
 public class Tut4 {
 //    static int a;
 //    static Integer b;

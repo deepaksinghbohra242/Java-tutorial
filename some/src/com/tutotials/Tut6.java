@@ -1,3 +1,5 @@
+package com.tutotials;
+
 public class Tut6 {
     public static void main(String[] args) {
 //        int [][][] ar = {{
@@ -43,7 +45,7 @@ public class Tut6 {
 //        System.out.println(ans[0] + " " + ans[1]);
 
 
-        HumanBody shiva = new HumanBody();
+//        HumanBody shiva = new HumanBody();
 //        shiva.eyes = 20;
 //        System.out.println(shiva.eyes);
 //        shiva.talk();

@@ -1,3 +1,5 @@
+package com.tutotials;
+
 public class Tut2 {
     public static void main(String[] args) {
         // ternary operator

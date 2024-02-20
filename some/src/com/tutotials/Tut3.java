@@ -1,3 +1,5 @@
+package com.tutotials;
+
 public class Tut3 {
     public static void main(String[] args) {
         int x = 17;
